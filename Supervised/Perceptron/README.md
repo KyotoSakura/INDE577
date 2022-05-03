@@ -16,7 +16,7 @@ This enables you to distinguish between the two linearly separable classes +1 an
 
 ### Learning steps:
 
-![image-2.png](attachment:image-2.png)
+![Perceptron_Steps](https://user-images.githubusercontent.com/74747864/166516376-42edce6d-31ee-4a2b-96fd-6366db3bb324.jpg)
 
 ### Datasets:
 
