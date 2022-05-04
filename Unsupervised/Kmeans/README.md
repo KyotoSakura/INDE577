@@ -18,8 +18,12 @@ k-means clustering is a method of vector quantization, originally from signal pr
 
 ## Datasets:
 
+- sklearn.datasets import make_sparse_uncorrelated
 
+Generate a random regression problem with sparse uncorrelated design.
 
 ## Reference:
 
 https://en.wikipedia.org/wiki/K-means_clustering
+
+https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
