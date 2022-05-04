@@ -10,19 +10,18 @@ This data science course was taught by Dr. Randy R. Davila at Rice University du
 
 Supervised Learning:
 
-Linear Regression
-Gradient Descent
-Logistic Regression
-Neural Nets
-Support Vector Machines
-k-Nearest Neighbors
-Decision/ Regression Trees
-Ensemble Learning
+- Linear Regression
+- Gradient Descent
+- Logistic Regression
+- Neural Nets
+- k-Nearest Neighbors
+- Decision/ Regression Trees
+- Ensemble Learning
 
 Unsupervised Learning:
 
-k-Means Clustering
-Principle Component Analysis
+- k-Means Clustering
+- Principle Component Analysis
 
 ## Programming Language:
 
