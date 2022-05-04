@@ -7,3 +7,15 @@ PCA is used in exploratory data analysis and for multidimensionality reduction. 
 The first principal component is defined as a direction that maximizes variance of the projected data, the second principal component is a direction orthogonal to the first principal component that is the next one to maximize the variance, etc. It can be proved that the principal components are the eigenvectors of the covariance matrix and are computed either by eigendecomposition of the covariance matrix or by the SVD of the data matrix.
 
 Assume we have data consisting of $m$ variables (or features, or attributes, such as age, height, weight, income, etc.) and n observations (or data points, or samples). We form the $m \times n$ ”feature - observation” matrix where variables are listed in the rows and observations in the columns. Some authors and Python prefer ”observation – feature” matrix instead of ”feature – observation” matrix. 
+
+## Datasets:
+
+- Penguins
+
+The Penguins Dataset contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica. These data were collected from 2007 - 2009 by Dr. Kristen Gorman's team. It consists of 344 rows and 7 columns. The three different species of penguins are Chinstrap, Adélie, and Gentoo penguins.
+
+- Wine
+
+sklearn.datasets.load_wine
+
+The wine dataset is a classic and very easy multi-class classification dataset.
